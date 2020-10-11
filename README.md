@@ -4,7 +4,7 @@
 <h3 align="center">Um player de áudio feito com HTML, CSS e JavaScript.</h3>
 
 <p align="center">
-  <a href="#about">Informações</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#techs">Tecnologias</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#about">Informações</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#techs">Tecnologias</a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
