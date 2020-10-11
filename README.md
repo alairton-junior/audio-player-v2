@@ -8,10 +8,7 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="files/img" height="80%" width="80%"/>
-</p>
-<br>
+
 
 <h2 id="about">Sobre o projeto </h2>
 
